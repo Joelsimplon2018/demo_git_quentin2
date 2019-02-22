@@ -1,0 +1,25 @@
+{
+  "name": "demo_git_quentin2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joelsimplon2018/demo_git_quentin2.git"
+  },
+  "author": "joel litete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joelsimplon2018/demo_git_quentin2/issues"
+  },
+  "homepage": "https://github.com/Joelsimplon2018/demo_git_quentin2#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
